@@ -1,7 +1,8 @@
 # IFE-JavaScript-Task-01-
 Set a input form
-<!--
+
 <!DOCTYPE html>
+<!--
 <html>
 <head>
     <meta charset="utf-8">
