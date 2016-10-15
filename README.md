@@ -1,21 +1,21 @@
 # IFE-JavaScript-Task-01-
 Set a input form
 
-<!DOCTYPE html>
-<!--
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>IFE JavaScript Task 01</title>
-</head>
-<body>
+//<!DOCTYPE html>
 
-<label>请输入北京今天空气质量：<input id="aqi-input" type="text"></label>
-<button id="button">确认填写</button>
+//<html>
+//<head>
+//    <meta charset="utf-8">
+//    <title>IFE JavaScript Task 01</title>
+//</head>
+//<body>
 
-<div>您输入的值是：<span id="aqi-display">尚无录入</span></div>
+//<label>请输入北京今天空气质量：<input id="aqi-input" type="text"></label>
+//<button id="button">确认填写</button>
 
-<script type="text/javascript">
+//<div>您输入的值是：<span id="aqi-display">尚无录入</span></div>
+
+//<script type="text/javascript">
 
     (function() {
         /*
@@ -35,7 +35,6 @@ Set a input form
         elbutton.addEventListener('click',clickButton,false);
     })();
 
-</script>
-</body>
-</html>
--->
+//</script>
+//</body>
+//</html>
