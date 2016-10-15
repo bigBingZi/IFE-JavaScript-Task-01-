@@ -1,5 +1,6 @@
 # IFE-JavaScript-Task-01-
 Set a input form
+/*
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,3 +37,4 @@ Set a input form
 </script>
 </body>
 </html>
+*/
